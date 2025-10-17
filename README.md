@@ -38,7 +38,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faivern&icon=8&color=2)](https://visitcount.itsvg.in)
