@@ -1,9 +1,37 @@
-
 ## 💻 Tech Stack
 
+### 🧠 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,dotnet,cs,java,spring,py,anaconda,c,cpp,postgres,mysql,mongodb,git,github,docker,aws,gcp,figma,ps,gimp,postman,swagger,jira&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,py,c,cpp&theme=dark&perline=9" />
+  </a>
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,anaconda&theme=dark&perline=9" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
+  </a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,swagger&theme=dark&perline=9" />
+  </a>
+</p>
+
+### 🎨 Design & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,gimp,jira,vscode,visualstudio&theme=dark&perline=9" />
   </a>
 </p>
 
