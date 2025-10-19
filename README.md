@@ -24,7 +24,7 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,swagger,ubuntu,windows&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,ubuntu,windows&theme=dark&perline=9" />
   </a>
 </p>
 
