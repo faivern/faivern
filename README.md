@@ -3,14 +3,14 @@
 ### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,c,py&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,c,py,bash,powershell&theme=dark&perline=9" />
   </a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,anaconda&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,electron,bootstrap,tailwind,npm&theme=dark&perline=9" />
   </a>
 </p>
 
@@ -24,14 +24,14 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,swagger&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,swagger,ubuntu,windows&theme=dark&perline=9" />
   </a>
 </p>
 
 ### 🎨 Design & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,vscode,visualstudio&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,vscode,visualstudio,eclipse,obsidian&theme=dark&perline=9" />
   </a>
 </p>
 
