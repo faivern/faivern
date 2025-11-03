@@ -3,7 +3,7 @@
 ### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,cs,c,py,bash,powershell&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cs,c,py,&theme=dark&perline=9" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 ### ☁️ Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,ubuntu,windows&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,postman,ubuntu,windows,bash,powershell&theme=dark&perline=9" />
   </a>
 </p>
 
