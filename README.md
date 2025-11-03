@@ -10,7 +10,7 @@
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,electron,bootstrap, html,css, tailwind,npm&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,electron,bootstrap,html,css,tailwind,npm&theme=dark&perline=9" />
   </a>
 </p>
 
