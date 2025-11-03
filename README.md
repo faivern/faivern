@@ -3,14 +3,14 @@
 ### 🧠 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,c,py,bash,powershell&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cs,c,py,bash,powershell&theme=dark&perline=9" />
   </a>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,electron,bootstrap,tailwind,npm&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,dotnet,spring,vite,electron,bootstrap, html,css, tailwind,npm&theme=dark&perline=9" />
   </a>
 </p>
 
