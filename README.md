@@ -40,8 +40,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=faivern&icon=8&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
