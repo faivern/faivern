@@ -12,12 +12,11 @@
 ### Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,spring,vite,html,css,tailwind,npm&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,dotnet,spring,vite,html,css,tailwind&theme=dark&perline=9" />
   </a>
 </p>
 
-**React** • **.NET** • **Spring** • **Vite** •  **HTML** • **CSS** • **Tailwind CSS** • **npm**
-
+**React** • **.NET** • **Spring** • **Vite** •  **HTML** • **CSS** • **Tailwind CSS**
 ### Databases
 <p align="left">
   <a href="https://skillicons.dev">
