@@ -4,8 +4,7 @@
 
 <h4>Full-stack Developer</h4>
 
-<a href="https://gustaffaivre.dev" target="_blank">
-  
+<a href="https://gustaffaivre.dev" target="_blank" rel="noopener noreferrer">
   <img
     src="https://custom-icon-badges.demolab.com/badge/Portfolio_%E2%86%97-16803A?style=for-the-badge&logo=globe&logoColor=FFFFFF"
     alt="Portfolio"
@@ -13,7 +12,7 @@
   />
 </a>
 
-<a href="https://www.linkedin.com/in/gustaf-faivre/" target="_blank">
+<a href="https://www.linkedin.com/in/gustaf-faivre/" target="_blank" rel="noopener noreferrer">
   <img
     src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
     alt="LinkedIn"
