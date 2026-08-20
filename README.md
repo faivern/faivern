@@ -1,27 +1,64 @@
-# Hi, I'm Gustaf 👋
+<div align="center">
 
-Full-stack developer focused on building modern web applications with **React, TypeScript, .NET and Java**.
+#👋 Hi, I'm Gustaf
 
-I enjoy working across the stack — from responsive interfaces and APIs to databases, cloud infrastructure and AI-powered features.
+**Full-stack Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gustaffaivre.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gustaffaivre.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-faivern-181717?style=for-the-badge&logo=github)](https://github.com/faivern)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-gustaffaivre.dev-EDE7DB?style=flat-square&labelColor=EDE7DB&color=EDE7DB)](https://gustaffaivre.dev)
+[![GitHub](https://img.shields.io/badge/GITHUB-faivern-EDE7DB?style=flat-square&logo=github&logoColor=4A463F&labelColor=EDE7DB&color=EDE7DB)](https://github.com/faivern)
+
+</div>
+
+<br>
+
+<a href="https://gustaffaivre.dev">
+  <img src="./assets/portfolio-preview.png" alt="Gustaf Faivre Portfolio" width="100%" />
+</a>
+
+<br>
 
 ---
 
-### Tech Stack
+### How I Like to Build
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,react,dotnet,spring,vite,tailwind,postgres,mysql,mongodb,docker,aws,git&theme=dark&perline=15" />
-</p>
+**FRONTEND**
 
-**Frontend** · React · TypeScript · Vite · Tailwind CSS  
-**Backend** · .NET · Java · Spring  
-**Data** · PostgreSQL · MySQL · MongoDB  
-**DevOps** · Docker · AWS · Git · GitHub
+![Next.js](https://img.shields.io/badge/Next.js-F5F1E8?style=flat-square&logo=nextdotjs&logoColor=403C36)
+![React](https://img.shields.io/badge/React-F5F1E8?style=flat-square&logo=react&logoColor=403C36)
+![TypeScript](https://img.shields.io/badge/TypeScript-F5F1E8?style=flat-square&logo=typescript&logoColor=403C36)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5F1E8?style=flat-square&logo=javascript&logoColor=403C36)
+![Tailwind](https://img.shields.io/badge/Tailwind-F5F1E8?style=flat-square&logo=tailwindcss&logoColor=403C36)
+
+**BACKEND**
+
+![Java](https://img.shields.io/badge/Java-F5F1E8?style=flat-square&logo=openjdk&logoColor=403C36)
+![Spring](https://img.shields.io/badge/Spring_Boot-F5F1E8?style=flat-square&logo=springboot&logoColor=403C36)
+![C#](https://img.shields.io/badge/C%23-F5F1E8?style=flat-square&logo=dotnet&logoColor=403C36)
+![.NET](https://img.shields.io/badge/.NET-F5F1E8?style=flat-square&logo=dotnet&logoColor=403C36)
+![Python](https://img.shields.io/badge/Python-F5F1E8?style=flat-square&logo=python&logoColor=403C36)
+
+**DATABASES**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F5F1E8?style=flat-square&logo=postgresql&logoColor=403C36)
+![SQL Server](https://img.shields.io/badge/SQL_Server-F5F1E8?style=flat-square&logo=microsoftsqlserver&logoColor=403C36)
+![MongoDB](https://img.shields.io/badge/MongoDB-F5F1E8?style=flat-square&logo=mongodb&logoColor=403C36)
+![Supabase](https://img.shields.io/badge/Supabase-F5F1E8?style=flat-square&logo=supabase&logoColor=403C36)
+
+**AI, TOOLS & DEVOPS**
+
+![Docker](https://img.shields.io/badge/Docker-F5F1E8?style=flat-square&logo=docker&logoColor=403C36)
+![Linux](https://img.shields.io/badge/Linux-F5F1E8?style=flat-square&logo=linux&logoColor=403C36)
+![Git](https://img.shields.io/badge/Git-F5F1E8?style=flat-square&logo=git&logoColor=403C36)
+![GitHub](https://img.shields.io/badge/GitHub-F5F1E8?style=flat-square&logo=github&logoColor=403C36)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-F5F1E8?style=flat-square&logo=azuredevops&logoColor=403C36)
+![Claude](https://img.shields.io/badge/Claude_Code-F5F1E8?style=flat-square&logo=anthropic&logoColor=403C36)
 
 ---
 
-### GitHub
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&layout=compact&hide_border=true&langs_count=6" height="150" />
+[**EXPLORE ALL PROJECTS →**](https://gustaffaivre.dev)
+
+</div>
