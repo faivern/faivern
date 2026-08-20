@@ -1,8 +1,12 @@
 <div>
 
-###👋 Hi, I'm Gustaf
+<h2>
+👋 Hi, I'm Gustaf
+</h2>
 
-**Full-stack Developer**
+<h4>
+Full-stack Developer**
+</h4>
 
 <br>
 
