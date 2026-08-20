@@ -1,48 +1,27 @@
-## Tech Stack
+# Hi, I'm Gustaf 👋
 
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,cs&theme=dark&perline=9" />
-  </a>
+Full-stack developer focused on building modern web applications with **React, TypeScript, .NET and Java**.
+
+I enjoy working across the stack — from responsive interfaces and APIs to databases, cloud infrastructure and AI-powered features.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gustaffaivre.dev-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gustaffaivre.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-faivern-181717?style=for-the-badge&logo=github)](https://github.com/faivern)
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,react,dotnet,spring,vite,tailwind,postgres,mysql,mongodb,docker,aws,git&theme=dark&perline=15" />
 </p>
 
-**JavaScript** • **TypeScript** • **Java** • **C#**
+**Frontend** · React · TypeScript · Vite · Tailwind CSS  
+**Backend** · .NET · Java · Spring  
+**Data** · PostgreSQL · MySQL · MongoDB  
+**DevOps** · Docker · AWS · Git · GitHub
 
-### Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,spring,vite,html,css,tailwind&theme=dark&perline=9" />
-  </a>
-</p>
+---
 
-**React** • **.NET** • **Spring** • **Vite** •  **HTML** • **CSS** • **Tailwind CSS**
-### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
-  </a>
-</p>
+### GitHub
 
-**PostgreSQL** • **MySQL** • **MongoDB**
-
-### Cloud & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,ubuntu,powershell&theme=dark&perline=9" />
-  </a>
-</p>
-
-**AWS** • **Docker** • **Git** • **GitHub** • **Postman** • **Ubuntu** • **PowerShell**
-
-### Design & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,figma&theme=dark&perline=9" />
-  </a>
-</p>
-
-**VS Code** • **Visual Studio** • **Eclipse** • **Figma**
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faivern&layout=compact&hide_border=true&langs_count=6" height="150" />
