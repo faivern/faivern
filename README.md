@@ -2,7 +2,7 @@
 
 <h1>👋 Hi, I'm Gustaf</h1>
 
-<h4>Full-stack Developer</h4>
+<h4>Software Developer • Full-stack • Cybersecurity</h4>
 
 <a href="https://gustaffaivre.dev" target="_blank" rel="noopener noreferrer">
   <img
